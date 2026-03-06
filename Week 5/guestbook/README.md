@@ -1,3 +1,7 @@
+# Guestbook App - Final Project
+Developed by Ezedeen (ezedeem223) for IBM Introduction to Containers w/ Docker, Kubernetes & OpenShift course.
+Customized deployment labels, added personal comments, and modified welcome messages.
+
 # Guestbook on Red Hat OpenShift
 
 The guestbook shows how to build a simple multi-tier web application using Kubernetes and Docker. The application consists of a web front end, Redis master for storage, and replicated set of Redis slaves, all for which we will create Kubernetes deployments, pods, and services.
