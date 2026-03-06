@@ -1,9 +1,12 @@
+# Redis Master Deployment - Customized by Ezedeen (ezedeem223)
+# IBM Final Project: Introduction to Containers w/ Docker, Kubernetes & OpenShift
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: redis-master
   labels:
     app: redis
+        owner: ezedeem223
     role: master
 spec:
   replicas: 1
