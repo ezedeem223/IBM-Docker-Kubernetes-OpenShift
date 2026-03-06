@@ -1,3 +1,7 @@
+// Guestbook App - Main Server (Go)
+// Customized by Ezedeen (ezedeem223) for IBM Final Project
+// Course: Introduction to Containers w/ Docker, Kubernetes & OpenShift
+
 /*
 Copyright 2014 The Kubernetes Authors.
 
